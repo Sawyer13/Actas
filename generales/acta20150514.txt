@@ -1,0 +1,53 @@
+He aquí el resumen de la reunión fundacional de LLU 14/05/15:
+
+### Lectura conjunta y modificación de los estatutos:
+
+- Se quitan los títulos de las libertades del software.
+
+- Se elimina la definición de conocimiento libre.
+
+- Se limita el ámbito de la asociación a la Facultad de Informática.
+
+- Ampliación de los fines de la asociación a cualquier actividad que sea de interés a los asociados.
+
+- ASCII apoya la asociación (*"que conste en acta!"*, gritan los asitentes)
+
+- Se cambian las fechas de las reuniones de la Asamblea General *ordinaria* a comprender un plazo del 15 octubre al 15 diciembre (frente a 15 octubre - 15 noviembre).
+
+- Se cambia al 10% el mínimo número de asociados que pueden solicitar una Asamblea General *extraordinaria*.
+
+- Se establece en un 10% el mínimo número de asistentes que pueden validar la constitución de una Asamblea General en segunda convocatoria.
+
+- En caso de no obtener consenso en los acuerdos, se establece una mayoría cualificada de más del 60% de las personas presentes.
+
+- La anterior mayoría será del 75% de los presentes en caso de tratar sobre los siguientes temas:
+
+	> (...) modificación de estatutos, la disolución de la asociación, disposición o enajenación de bienes, o revocación de los miembros de la Junta Directiva.
+
+- Se elimina cualquier referencia a una posible remuneración de miembros de la junta
+
+- Se elimina cualquier referencia al Reglamento de Régimen Interno.
+
+- Se elimina referencia de que *"El Presidente, Vicepresidente y Secretario de la Asamblea serán, asimismo, Presidente, Vicepresidente y Secretario de la Asociación"*.
+
+- En caso de elección de miembros de la Junta Directiva, se reduce el mínimo de antelación de 2 semanas a 1 semana, con la que se realizará adecuada difusión.
+
+- En caso de ausencia o enfermedad de un miembro de la Junta Directiva, podrá, esa misma persona, designar un suplente (de la asociación). Con anterioridad, ese suplente era designado por cualquier otro componente de la Junta.
+
+- Inclusión de *"Por acuerdo de la Asamblea General o Extraordinaria"* a las causas de cesde de un miembro de la Junta Directiva.
+
+- Eliminación de *"Adoptar cualquier medida urgente que la buena marcha de la Asociación aconseje o en el desarrollo de sus actividades resulte necesaria o conveniente, sin perjuicio de dar cuenta posteriormente a la Junta directiva."* de las competencias de el Presidente.
+
+- Al menos el 50% de la Junta Directiva debe estár matriculada en la UCM. En caso de no llegar a este porcentaje, aquellos miembros no matriculados renunciarán a su puesto en favor de otro candidato matriculado con más votos, empezando por los cargos más bajos.
+
+- Eliminación del límite de mayores de edad a la hora de asociarse.
+
+- Eliminación de baja en la condición de socio por la adquisición de la denominación de Miembro de Honor.
+
+- Eliminación de *"Los socios de Honor dispondrán de los mismos derechos salvo el de voto en la Asamblea General y el de participación en la Junta Directiva."* pues se considera que si deben tener derecho a voto en las Asambleas Generales.
+
+- Eliminación de *"Asistir a las Asambleas Generales."* de los deberes de los socios.
+
+- Plazo reducido de 15 a 7 días en *"Anualmente se practicará el inventario y balance de la situación que se formalizará en una memoria y será expuesto a disposición de los socios durante un plazo no inferior a 7 días al señalado para la celebración de la Asamblea General, que deberá aprobarlo o censurarlo."*.
+
+Quedan pendientes el resto de puntos del orden del día para la próxima reunión.

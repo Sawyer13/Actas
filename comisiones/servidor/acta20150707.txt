@@ -1,0 +1,55 @@
+Reunión de la comisión de servidor LLU
+* Situación
+Lugar: Local Lewis Matemáticas
+Fecha: 07/07/2015
+Hora: 17:30
+Asistentes: Abel, Luisma, Jesús D.
+
+* Organización servidor
+** Usuarios actuales
+Actualmente el usuario con todo el poder es "llu" es el único que
+tiene acceso a los usb y todo el ordenador sin hacerse sudo. Además
+puede hacerse sudo.
+
+Otro usuario es lluser que tiene recursos limitados.
+
+El usuario adm-web actualmente es sudo pero dejara de ser lo
+próximamente. Tiene permisos sobre la carpeta /var/www/
+
+** Futuros usuarios
+Ante las dos propuestas descritas abajo, se decide mezclar las dos,
+primando el usuario personal para quien lo solicite y dado a cada
+servicio la libertad de elegir si requiere más usuarios o simplemente
+con el usuario del servicio vale. Por ejemplo, para el servicio web,
+solamente es necesario un usuario dado que toda la labor de desarrollo
+web se hace a través de http y no de ssh. 
+*** Un usuario por servicio
+Se propone generar un usuario por cada servicio que se tiene en el
+servidor y facilitarlo a los interesados en ese servicio.
+*** Un usuario para quien lo solicite
+Esta propuesta consiste en quien quiera un usuario puede solicitarlo a
+la comisión servidor y está se la concederá después de un breve
+estudio y meterá en los grupos de usuarios que corresponda en función
+de los servicios que solicites.
+* Dominio
+La votación resulto victoriosa la para el dominio:
+librelabucm.org
+** Quien reserva?
+librelab@ucm.es
+Hay que pagar, 10€ Luisma
+** A donde apunta?
+Inicialmente a la ip del servidor, cuando el servidor cambie de
+localización se actualiza.
+* Correo
+De momento hasta nueva reunión se encargan 3 personas.
+librelab@ucm.es
+3 personas:
+Abel, Luisma y ???
+* Web
+Se decide revocar sudo al usuario adm-web ya que no lo va a necesitar
+más. Y se propone animar a los que están encargados de ese tema para
+moverlo más rápido.
+* Fin
+Con todo esto la reunión finaliza a las 18:30.
+
+ 

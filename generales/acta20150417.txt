@@ -1,0 +1,76 @@
+* Cómo organizar la asociación en lo sucesivo
+Se habla de la necesidad de compartir las responsabilidades de la asociación ya que ahora la mayoría del trabajo recae sobre una sola persona
+Se decide hacer reuniones semanales los viernes a las 16:00. Estas reuniones no tienen un caracter o relevancia mayor, se anunciarán aquellas que si que tengan esa relevancia. Está abierta la opcion de que se propongan más dias / horas para quedar.
+ 
+* Servidor y página web de la asociación
+
+- Hay miembros de LLU que tienen un servidor y lo ofrecen para hospedar una web. Se habla de que no todos los miembors de LLU podrían entonces tener acceso de administración a la máquina.
+
+- digital ocean: opcion barata por ser estudiante UCM
+- openshift.org: gratuito por redhat
+
+Se barajan las opciones de dejar un servidor en delegación o en alguna de las asociaciones. Se habla de usar un ordenador en desuso de alguno de los miembros, varios ofrecen.
+
+Pablo se ofrece a administrar el servidor
+
+Pablo y Jaunje se encargan de la Web. Sobre CMS (Drupal)
+
+- Web. Lista de ideas de funcionalidades
+  - Novedades
+  - Actividades
+  - Foro
+  - Chat
+  - lista de distribución
+
+* Futuros carteles y su impresión: ¿presupuesto? ¿B/N color?
+Juanje se encarga de diseñar el cartel del ciclo de cine e imprimir y pegar en los tablones de la facultad y dárselos a decanato.
+
+* Proximas actividades
+** Equipos e ideas traity
+Lo comentarán los compañeros interesados al final de la reunión
+
+** Taller de git
+El cartel está hecho, hay que cambiar fecha y hora.
+Borja se encarga de contactar con los ponentes.
+
+** Ciclo de cine
+- Viernes 24 de 16:00 a 19:00. 2001: Una odisea espacial
+- Miércoles 29 de 15:00 a 17:00. Citizen 4
+- Lunes 4 de mayo de 13:00 17:00. Black mirror
+
+** Visita museo
+Se propone hacer una visita guiada al museo de la informática de la facultad. Sara se encarga de hablar con el profesor (Poleti) y fijar una fecha. Pasar un doodle por la lista para decidir fecha/hora.
+  
+** Install party
+Antonio se compromete a dinamizar y organizar la install party. Se decide organizar una primera para principiantes. Se propone evaluar hacer una siguiente "install party" para usuarios avanzados y distribuciones más específicas.
+
+** Curso de android
+El que iba a organizarlo no puede hacerlo este curso por estar muy ocupado.
+Antonio tiene un contacto de alumnos que están haciendo un TFG con android. Se encarga de contactar con ellos por si estubieran interesados
+
+** Curso de virtualización
+Borja propone realizar un taller de virtualización con vagrant. Él se encargaría de realizarlo. Fecha por concretar.
+
+** Taller de bitmessage y comunicación segura
+
+Antonio se encarga de organizarlo
+
+* Estatutos fundación y demás
+- hay 50 firmas
+- están los estatutos de GUL
+- los miembros de junta han de ser alumnos, pero los miembros pueden ser profesores
+- Juanje envía modelo de estatutos de la casa del estudiante
+- Abel y Antonio se encarga de empezar a revisar y actualizar los estatutos de GUL
+- Hay que hacer una reunión fundacional
+- Juanje se encarga del papeleo después de la reunión fundacional
+
+* Varios
+
+hay que hacer una lista de distribución donde compartir actividades, etc.
+También se propone tener feeds.
+
+En cada reunión de decisión, que haya pizza o algo para picar al terminar.
+ 
+* Sorpresa para todos los miembros de librelab
+
+Libre lab recibe su primer material: donación de un cacharro open source (based on FEZ Cerberus. GHI Electronics, LLC www.GHIElectronics.com) en perfecto estado.
